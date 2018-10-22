@@ -1,6 +1,6 @@
 {
   "name": "Node-RED",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "slug": "nodered",
   "description": "Flow-based programming for the Internet of Things",
   "url": "https://community.home-assistant.io/t/community-hass-io-add-on-node-red/55023?u=frenck",
@@ -96,5 +96,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "image": "hassioaddons/node-red-{arch}"
+  "image": "hassioaddons/node-red-{arch}:8be1856"
 }
